@@ -20,7 +20,7 @@ Within the first week, I came up with a prototype that could render an SVG! Wooh
 
 Later I spent a lot of time fixing bugs, implementing algorithms e.g. matrix transformation, elliptical arc, alpha-bending, antialiasing.
 
-The following screenshots are worth a thousands of words.
+The following screenshots are worth a thousand words.
 
 ![[font]musixdoc.png](https://raw.githubusercontent.com/lzl124631x/svg_viewer/master/screenshots/[font]musixdoc.png)
 ![3d4.png](https://raw.githubusercontent.com/lzl124631x/svg_viewer/master/screenshots/3d4.png)
