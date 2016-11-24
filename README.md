@@ -8,7 +8,7 @@ A Tiny SVG Render Engine written in C/C++.
 
 Wow! It's so fascinating reviewing this repo.
 
-I spent half a year during my postgraduate implementing HTML render engine. It's way too difficult for one person, I was exhausted and found that it's really hard to expend the code due to my inexperience.
+I spent half a year during my postgraduate implementing HTML render engine. It's way too difficult for one person, I was exhausted and found that it's really hard to expand the code due to my inexperience.
 
 My professor recommended me to build and learn from WebKit. I did it and learned a lot. And at the same time, he recommended me to implement a relatively much easier render engine -- SVG render engine, because there are much less types of elements in SVG than HTML. So I switched to implement this SVG render engine.
 
