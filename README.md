@@ -33,3 +33,6 @@ The following screenshots are worth a thousand words.
 ![tiger.PNG](https://raw.githubusercontent.com/lzl124631x/svg_viewer/master/screenshots/tiger.PNG)
 ![tplot.png](https://raw.githubusercontent.com/lzl124631x/svg_viewer/master/screenshots/tplot.png)
 ![xenia4.PNG](https://raw.githubusercontent.com/lzl124631x/svg_viewer/master/screenshots/xenia4.PNG)
+
+# License
+See the [LICENSE](./LICENSE.md) file for license rights and limitations (MIT).
